@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "email": "swarovski@joias.com",
+      "senha": "1234"
+    }
+  ],
+  "joias": [
+    {
+      "nome": "Pingente Idyllia - Flor Multicor",
+      "categorias": ["pingente", "dourado"],
+      "descricao": "Pingente Idyllia, combinação de lapidações, flor, multicor, revestido em dourado.",
+      "imagens": ["pingente_3flores.png"],
+      "id": "j001",
+      "preco": 2000,
+      "peso": null
+    },
+    {
+      "nome": "Pingente Idyllia - Borboleta Multicor",
+      "categorias": ["pingente", "borboleta"],
+      "descricao": "Pingente e pregadeira Idyllia, combinação de lapidações pavé, borboleta multicores, acabamento de combinação de metais.",
+      "imagens": ["pingente_borboleta.png"],
+      "id": "j002",
+      "preco": 2000,
+      "peso": null
+    },
+    {
+      "nome": "Anel Idyllia Azul",
+      "categorias": ["anel", "azul"],
+      "descricao": "Anel Idyllia, combinação de lapidações, flor azul, revestido em dourado.",
+      "imagens": ["anel_azul.png"],
+      "id": "j003",
+      "preco": 1000,
+      "peso": null
+    },
+    {
+      "nome": "Colar Idyllia - Flor Multicor",
+      "categorias": ["colar", "dourado"],
+      "descricao": "Colar Idyllia, combinação de lapidações, flor multicor, revestido em dourado.",
+      "imagens": ["colar_1.png"],
+      "id": "j004",
+      "preco": 4000,
+      "peso": null
+    },
+    {
+      "nome": "Pingente Idyllia - Flor Pavé",
+      "categorias": ["pingente", "flor"],
+      "descricao": "Pingente e pregadeira Idyllia, combinação de lapidações pavé, flor multicores, acabamento de metais.",
+      "imagens": ["pingente_florido.png"],
+      "id": "j005",
+      "preco": 3700,
+      "peso": null
+    },
+    {
+      "nome": "Bracelete Idyllia - Flor Multicor",
+      "categorias": ["bracelete", "dourado"],
+      "descricao": "Bracelete Idyllia, combinação de lapidações, flor multicor, revestido em dourado.",
+      "imagens": ["bracelete.png"],
+      "id": "j006",
+      "preco": 1790,
+      "peso": null
+    },
+    {
+      "nome": "Anel Idyllia - Flor Pavé",
+      "categorias": ["anel", "flor"],
+      "descricao": "Anel Idyllia, combinação de lapidações pavé, flor multicor, banhado a dourado.",
+      "imagens": ["anel_flor.png"],
+      "id": "j007",
+      "preco": 2400,
+      "peso": null
+    },
+    {
+      "nome": "Anel Idyllia Verde",
+      "categorias": ["anel", "verde"],
+      "descricao": "Anel Idyllia, combinação de lapidações, flor verde, revestido em dourado.",
+      "imagens": ["anel_verde.png"],
+      "id": "j008",
+      "preco": 1980,
+      "peso": null
+    },
+    {
+      "nome": "Colar Idyllia - Pavé Flor Multicor",
+      "categorias": ["colar", "flor"],
+      "descricao": "Colar Idyllia, combinação de lapidações pavé, flor multicor, revestido em dourado.",
+      "imagens": ["colar_2.png"],
+      "id": "j009",
+      "preco": 6500,
+      "peso": null
+    },
+    {
+      "nome": "Anel Idyllia Multicor",
+      "categorias": ["anel", "multicor"],
+      "descricao": "Anel Idyllia, combinação de lapidações, flor multicor, banhado a dourado.",
+      "imagens": ["anel_idyllia.png"],
+      "id": "j010",
+      "preco": 2000,
+      "peso": null
+    }
+  ]
+}
